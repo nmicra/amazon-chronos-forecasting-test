@@ -1,0 +1,7 @@
+git+https://github.com/amazon-science/chronos-forecasting.git
+fastapi
+uvicorn[standard]
+pandas
+numpy
+matplotlib
+torch
